@@ -1,0 +1,12 @@
+{
+  "Code": 0,
+  "Msg": "",
+  "UpdateStatus": 1,
+  "VersionCode": 18,
+  "VersionName": "1.1.8",
+  "UploadTime": "2021-05-07 02:30:00",
+  "ModifyContent": "\r\n1、修复部分已知问题。\n2、优化了部分组件功能。\n3、新增更多使用演示。",
+  "DownloadUrl": "https://raw.githubusercontent.com/xuexiangjys/XUI/master/apk/xuidemo.apk",
+  "ApkSize": 13574,
+  "ApkMd5": ""
+}
